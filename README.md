@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hey Humans!
+Wellesley here, I like blood and guts (that's what I'm made of!).
+I haven't had tacos on the moon and I seriously doubt Hubot has because computers can't cook or eat.
